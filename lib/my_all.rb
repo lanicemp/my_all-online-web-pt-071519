@@ -9,7 +9,7 @@ def my_all?(collection)
     binding.pry 
   end 
   
-  if block_return_values.include? (flase)
+  if block_return_values.include? (false)
     false 
   else 
     true 
